@@ -1,0 +1,145 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+body{
+    background-color: rgb(215, 221, 219);
+    font-family: 'Imperial Script', cursive;
+    font-size: 8px;
+}
+.container{
+    max-width:900px;
+    background-color: rgb(198, 225, 243);
+    margin:0% auto;
+    padding:20px
+}
+header{
+
+}
+.profile-image{
+    width:50px;
+    height:60px;
+    border:1px solid white;
+    border-radius: 200px ;
+    float:left;
+}
+
+.bio{
+    float:left;
+    padding:10px;
+}
+h1,h2,h3,h4,h5,h6{
+    color:#11999e;
+
+}
+.contract{
+    float:right;
+    padding:20px;
+}
+.contract a{
+    text-decoration:none;
+    color:rgb(205, 73, 231);
+    font-weight: bold;
+    font-size: 10px;
+}
+.contract a:hover{
+    text-decoration: underline;
+    color:red;
+}
+.div-clear{
+    clear:both;
+
+}
+hr{
+    border:3px solid black ;
+    width:100%;
+    margin:20px auto;
+    border-bottom:none ;
+    
+}
+/*-------------------
+personal section start
+--------------------*/
+#personal-section{}
+
+.content{
+    font-size:12px ;
+}
+    
+.left-div{
+    width:300px;
+    float:left; 
+}
+.right-div{
+width:500px;
+float:left ;
+}
+.common-hr{
+    border:solid black 1px;
+    border-bottom:none;
+    width:100%;
+    margin:20px auto;
+
+
+
+}
+/*---------------------
+Education section start
+----------------------*/
+.edu-template-left{
+    float:left;
+    width:140px;
+
+
+
+}
+.edu-template-right{
+    float:right;
+    width:180px;
+
+
+
+
+}
+/*-------------------
+footer start
+--------------------*/
+.bottom-container{
+    background-color:black;
+    padding:10px;
+    text-align:center;
+
+}
+.bottom-container a{
+    color:white;
+    text-decoration:none;
+    margin:20px;
+}
+.bottom-container p{
+    color:white;
+    margin-top:20px;
+
+
+
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
